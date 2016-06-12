@@ -1,4 +1,4 @@
-# TRACE Dataset version 1.0
+# FORTH-TRACE Dataset version 1.0
 
 Katerina Karagiannaki (1,2)  
 Athanasia Panousopoulou (1)  
@@ -34,7 +34,7 @@ The dataset contains the following files:
 * partX/partXdev5.csv 
 
 Where X corresponds to the participant ID, 
-and numbers 1-5 to the device IDs located in the positions indicated in Table 1.
+and numbers 1-5 to the device IDs indicated in Table 1.
 
 Each .csv file has the following format:
 
