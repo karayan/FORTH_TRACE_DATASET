@@ -34,7 +34,7 @@ The dataset contains the following files:
 * partX/partXdev5.csv 
 
 Where X corresponds to the participant ID, 
-and numbers 1-5 to the device ID (Table 1).
+and numbers 1-5 to the device IDs located in the positions indicated in Table 1.
 
 Each .csv file has the following format:
 
@@ -68,14 +68,14 @@ Each .csv file has the following format:
 3. sit and talk 
 4. walk 
 5. walk and talk 
-6. climb 
-7. climb and talk 
+6. climb stairs (up/down) 
+7. climb stairs (up/down) and talk 
 8. stand -> sit 
 9. sit -> stand 
 10. stand -> sit and talk 
 11. sit and talk -> stand 
 12. stand -> walk 
 13. walk -> stand 
-14. stand -> climb, stand -> climb and talk 
-15. climb -> walk 
-16. climb and talk -> walk and talk 
+14. stand -> climb stairs (up/down), stand -> climb stairs (up/down) and talk 
+15. climb stairs (up/down) -> walk 
+16. climb stairs (up/down) and talk -> walk and talk 
