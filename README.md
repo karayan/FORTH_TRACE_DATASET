@@ -62,6 +62,7 @@ Each .csv file has the following format:
 
 
 ## Table 2: ACTIVITY LABELS
+(Arrows (->) indicate transitions between activities)
 
 1. stand 
 2. sit 
@@ -79,3 +80,8 @@ Each .csv file has the following format:
 14. stand -> climb stairs (up/down), stand -> climb stairs (up/down) and talk 
 15. climb stairs (up/down) -> walk 
 16. climb stairs (up/down) and talk -> walk and talk 
+
+## License:
+Use of this dataset in publications must be acknowledged by referencing the following publications:
+
+* Katerina Karagiannaki, Athanasia Panousopoulou, Panagiotis Tsakalides. A Benchmark Study on Feature Selection for Human Activity Recognition. ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), ACM, 2016.

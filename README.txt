@@ -65,19 +65,28 @@ Column12: Activity Label
 --------------------------------------------------------------------------------
 		Table 2: ACTIVITY LABELS
 --------------------------------------------------------------------------------
-1: stand
-2: sit
-3: sit and talk
-4: walk
-5: walk and talk
-6: climb
-7: climb and talk
-8: stand -> sit
-9: sit -> stand
-10: stand -> sit and talk
-11: sit and talk -> stand
-12: stand -> walk
-13: walk -> stand
-14: stand -> climb, stand -> climb and talk
-15: climb -> walk
-16: climb and talk -> walk and talk
+(Arrows (->) indicate transitions between activities)
+
+1. stand 
+2. sit 
+3. sit and talk 
+4. walk 
+5. walk and talk 
+6. climb stairs (up/down) 
+7. climb stairs (up/down) and talk 
+8. stand -> sit 
+9. sit -> stand 
+10. stand -> sit and talk 
+11. sit and talk -> stand 
+12. stand -> walk 
+13. walk -> stand 
+14. stand -> climb stairs (up/down), stand -> climb stairs (up/down) and talk 
+15. climb stairs (up/down) -> walk 
+16. climb stairs (up/down) and talk -> walk and talk 
+
+--------------------------------------------------------------------------------
+		LICENCE
+--------------------------------------------------------------------------------
+Use of this dataset in publications must be acknowledged by referencing the following publications:
+
+* Katerina Karagiannaki, Athanasia Panousopoulou, Panagiotis Tsakalides. A Benchmark Study on Feature Selection for Human Activity Recognition. ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), ACM, 2016.
